@@ -474,7 +474,8 @@ h5 {
   width: 5vw;
 }
 
-.card > img, .card_text img:nth-child(1) {
+.card > img,
+.card_text img:nth-child(1) {
   width: 28vw;
 }
 
@@ -896,6 +897,12 @@ footer {
   .page2 {
     height: auto;
   }
+  .page2 h2 {
+    font-size: 6vw;
+  }
+  .page2 .category {
+    font-size: 2.4vw;
+  }
   #ii {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -905,7 +912,7 @@ footer {
         -ms-flex-align: center;
             align-items: center;
     scale: 2;
-    margin-top: 55vw;
+    margin: 55vw auto;
   }
   .cards {
     -webkit-box-orient: vertical;
@@ -918,6 +925,9 @@ footer {
   }
   .page3 {
     height: auto;
+    scale: 2;
+    margin: 82vw auto;
+    width: 50vw;
   }
   .card {
     padding-bottom: 1vw;
