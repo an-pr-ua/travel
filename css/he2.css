@@ -641,7 +641,7 @@ h5 {
   margin-bottom: 3vw;
 }
 .text_top_img_page4 p {
-  padding-bottom: 0.7vw;
+  padding-bottom: 0.5vw;
 }
 .text_top_img_page4 p:nth-child(1) {
   font-family: poppinsM;
@@ -917,10 +917,10 @@ footer {
     margin-left: 13vw;
   }
   .page1 .icon {
-    scale: 2.5;
+    scale: 3.5;
     position: absolute;
     left: 78vw;
-    top: 15vw;
+    top: 17vw;
   }
   .page2 {
     height: auto;
@@ -981,6 +981,9 @@ footer {
   .page4 .top_img_page4 img:nth-child(1) {
     margin-left: 69vw;
   }
+  .left_block_page4 {
+    margin-top: 7vw;
+  }
   .text_top_img_page4 {
     margin-left: 84vw;
   }
@@ -1031,6 +1034,7 @@ footer {
   }
   .text_right_side_page5 p:nth-child(2) {
     margin-top: 1vw;
+    margin-bottom: -1vw;
   }
   .right_side_page5 {
     padding-top: 5vw;

@@ -606,7 +606,7 @@ h5 {
   }
 
   p {
-    padding-bottom: 0.7vw;
+    padding-bottom: 0.5vw;
   }
 
   p:nth-child(1) {
@@ -885,10 +885,10 @@ footer {
       }
     }
     .icon {
-      scale: 2.5;
+      scale: 3.5;
       position: absolute;
       left: 78vw;
-      top: 15vw;
+      top: 17vw;
     }
   }
 
@@ -939,6 +939,10 @@ footer {
     .top_img_page4 img:nth-child(1) {
       margin-left: 69vw;
     }
+  }
+
+  .left_block_page4 {
+    margin-top: 7vw;
   }
 
   .text_top_img_page4 {
@@ -997,6 +1001,7 @@ footer {
 
   .text_right_side_page5 p:nth-child(2) {
     margin-top: 1vw;
+    margin-bottom: -1vw;
   }
 
   .right_side_page5 {
