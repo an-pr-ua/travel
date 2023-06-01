@@ -894,6 +894,9 @@ footer {
 }
 
 @media (max-width: 479px) {
+  h1 {
+    width: 35vw;
+  }
   .page1 {
     height: 100vw;
   }
